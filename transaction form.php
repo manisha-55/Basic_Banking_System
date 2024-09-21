@@ -13,6 +13,7 @@
 			$user=$_SESSION['user'];
 		}
 ?>
+<!-- This is the code -->
 
 
 <!DOCTYPE html>
